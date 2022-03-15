@@ -10,7 +10,7 @@ __Specs__
 __Tested and working__
 
 - [x] Intel HD Graphics 530
-- [x] HDMI + HDMI Audio
+- [x] HDMI
 - [x] Audio
 - [x] Wired networking
 - [x] iServices
@@ -18,7 +18,7 @@ __Tested and working__
 __Not working__
 
 - [ ] sleep (for now)
-- [ ] wifi and bluetooth (now present)
+- [ ] wifi and bluetooth (not present)
 
 __Guides__
 
