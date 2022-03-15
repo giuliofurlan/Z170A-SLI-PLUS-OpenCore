@@ -23,5 +23,5 @@ __Not working__
 __Guides__
 
 - [USB creation](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
-- [congif.plist edition](https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html)
+- [config.plist](https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html)
 - [BIOS settings](https://dortania.github.io/OpenCore-Install-Guide/config-HEDT/haswell-e.html#intel-bios-settings)
