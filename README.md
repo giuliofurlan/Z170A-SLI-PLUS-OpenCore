@@ -1,7 +1,8 @@
 # MSI Z170A SLI PLUS
-opencore hackintosh for msi Z170A SLI PLUS without using additional hardware
+OpenCore hackintosh for msi Z170A SLI PLUS without using additional hardware
 ![Specs](/image.png)
-## specs
+
+__Specs__
 - i7 6700K
 - intel iGPU
 - sata SSD
@@ -18,3 +19,9 @@ __Not working__
 
 - [ ] sleep (for now)
 - [ ] wifi and bluetooth (now present)
+
+__Guides__
+
+- [USB creation](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
+- [congif.plist edition](https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html)
+- [BIOS settings](https://dortania.github.io/OpenCore-Install-Guide/config-HEDT/haswell-e.html#intel-bios-settings)
